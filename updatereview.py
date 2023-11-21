@@ -1,5 +1,4 @@
 import os
-from google.cloud import bigquery
 import requests
 import json
 import re
